@@ -1,7 +1,6 @@
-# STAT350-project
-Final project for STAT 350  
+# STAT350-Final-Project
 Group 4;
 # Group members
+Yunxiang Zhuang  
 Xian He  
-Yunxiang Zhuang
 
